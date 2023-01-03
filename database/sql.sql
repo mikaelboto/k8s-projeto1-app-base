@@ -3,4 +3,4 @@ CREATE TABLE mensagens (
     nome varchar(50),
     email varchar(50),
     comentario varchar(100)
-);
+); 
